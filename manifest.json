@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "enhancedproblems",
+	"name": "Enhanced Problems widget",
+	"description": "",
+	"version": "2.0",
+	"namespace": "EnhancedProblems",
+	"author": "initMAX s.r.o.",
+	"url": "www.initmax.com",
+	"require": {
+		"zabbix": "^6.0"
+	},
+	"actions": {
+		"widget.enhancedproblems.view": {
+			"class": "widgets/EnhancedProblemsView",
+			"view": "widgets/enhancedproblems.view",
+			"layout": "layout.widget"
+		},
+		"widget.acknowledge.popup": {
+			"class": "widgets/AcknowledgePopup",
+			"view": "widgets/popup.acknowledge",
+			"layout": "layout.json"
+		}
+	},
+	"config": {
+	}
+}
