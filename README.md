@@ -1,12 +1,12 @@
 # Enhanced Problems
 
 ## Widget configuration popup
-<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/raw/branch/master/img/enhanced-problems-configuration-popup.png" width="800" height="1300" />
+<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/-/raw/master/img/enhanced-problems-configuration-popup.png" width="800" height="1300" />
 
 ## Widget
-<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/raw/branch/master/img/enhanced-problems-example.png" width="800" height="325" />
+<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/-/raw/master/img/enhanced-problems-example.png" width="800" height="325" />
 
-<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/raw/branch/master/img/enhanced-problems-example-2.png" width="800" height="325" />
+<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Enhanced-Problems/-/raw/master/img/enhanced-problems-example-2.png" width="800" height="325" />
 
 ### Functionallity
  - Standard events filtering by specifying severities, tags, host, host groups or problems
