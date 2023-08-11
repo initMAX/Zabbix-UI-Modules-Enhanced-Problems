@@ -36,3 +36,4 @@
 - [Instagram](https://www.instagram.com/initmax/)
 - [Facebook](https://www.facebook.com/initmax)
 - [Web](https://www.initmax.cz/)
+- [Youtube](https://www.youtube.com/@initmax1)
